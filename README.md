@@ -11,4 +11,5 @@ Further Statistical Methods like Regression analysis, Lasso Regression, Chi-squa
 Additionaly I developed an interactive dashboard to identify new profitable marketing platforms for leading business segments using advanced Tableau practices.
 
 More About the Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 Tableau Visulizatons: https://public.tableau.com/app/profile/muhammad.ibrahim.mian
